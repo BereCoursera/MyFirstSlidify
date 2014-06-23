@@ -1,6 +1,6 @@
 ---
 title       : Exploratory tool for mtCars
-subtitle    : 
+subtitle    : (using ggplot2)
 author      : 
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
